@@ -8,3 +8,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+* 📬 How to reach me hanzomainer1488@gmail.com
+* 📄 My [CV](https://khabarovsk.hh.ru/resume/2617afe2ff0c56fe9e0039ed1f445556524230)
